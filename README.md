@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, ReactJS**
 
-- 👯 I’m looking to collaborate on [Momo](https://momo.vn/), VTechnology
+- 👯 I’m looking to collaborate on [Momo](https://momo.vn/)
 
 - 💬 Ask me about **ReactJS, Angular**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://fb.com/thquan98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/thquan98" height="30" width="40" /></a>
+<a href="https://fb.com/thquan98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thquan98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
