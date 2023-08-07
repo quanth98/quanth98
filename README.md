@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm QuanTH</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on [OnCX](https://oncx.vn/vi/)
+- 🔭 I’m currently working on [Auto telesale](https://autotelesale.com/)
 
 - 🌱 I’m currently learning **Angular, ReactJS**
 
-- 👯 I’m looking to collaborate on [Momo](https://momo.vn/), VTechnology
+- 👯 I’m looking to collaborate on Vtechnology
 
 - 💬 Ask me about **ReactJS, Angular**
 
