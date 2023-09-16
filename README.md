@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, ReactJS**
 
-- 👯 I’m looking to collaborate on Vtechnology
+# - 👯 I’m looking to collaborate on Vtechnology
 
 - 💬 Ask me about **ReactJS, Angular**
 
