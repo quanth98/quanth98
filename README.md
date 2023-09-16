@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular, ReactJS**
 
-[//] - 👯 I’m looking to collaborate on Vtechnology
-
 - 💬 Ask me about **ReactJS, Angular**
 
 - 📫 How to reach me **quanlatoi199x@gmail.com**
